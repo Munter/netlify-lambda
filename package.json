@@ -1,5 +1,5 @@
 {
-  "name": "netlify-lambda",
+  "name": "@munter/netlify-lambda",
   "version": "0.4.0",
   "description": "Build and serve lambda function with webpack compilation",
   "homepage": "https://github.com/netlify/netlify-lambda#readme",
